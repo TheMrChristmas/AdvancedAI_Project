@@ -8,7 +8,7 @@ the repository has 2 folders, and this readme file.
 
 One folder contains the research files (data files and notebooks) that I used along the way in this project to try different methods.
 
-the other folder is called COVID-19 and contains 2 subfolders, one for the data that includes the csv file storing the data and the other is called model that includes the official submitted jupyter notebook.
+the other folder is called COVID-19 and contains 3 subfolders, one for the data that includes the csv file storing the data, one the other is called model that includes the official submitted jupyter notebook and the third contains 6 screenshots of correct predictions on new unseen.
 
 ## Guide to using the project
 
