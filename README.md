@@ -14,7 +14,7 @@ the other folder is called COVID-19 and contains 3 subfolders, one for the data 
 
 ### 1. Locating the correct file
 
-the correct notebook can be found in the COVID-19 folder and is named "COVID-19.ipymb".
+the correct notebook can be found in the COVID-19 folder and is named "COVID-19.ipynb".
 
 ### 2. using the notebook
 
